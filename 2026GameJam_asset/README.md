@@ -54,12 +54,6 @@
 
 ---
 
-![20260614_175724](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/20260614_175724.jpg)
-
-`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/20260614_175724.jpg`
-
----
-
 ![image](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/image.png)
 
 `https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/image.png`
