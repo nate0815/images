@@ -112,3 +112,33 @@
 
 `https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/20260614_175724%20%E6%8B%B7%E8%B2%9D.jpg`
 
+---
+
+![1783008245153](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783008245153.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783008245153.jpg`
+
+---
+
+![1783008978791](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783008978791.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783008978791.jpg`
+
+---
+
+![1783009050009](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783009050009.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783009050009.jpg`
+
+---
+
+![1783009072383](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783009072383.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783009072383.jpg`
+
+---
+
+![1783009097382](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783009097382.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783009097382.jpg`
+
