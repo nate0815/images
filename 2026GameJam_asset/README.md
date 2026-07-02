@@ -106,3 +106,15 @@
 
 `https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783004809572.jpg`
 
+---
+
+![1783007243515](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783007243515.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783007243515.jpg`
+
+---
+
+![20260614_175724 拷貝](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/20260614_175724%20%E6%8B%B7%E8%B2%9D.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/20260614_175724%20%E6%8B%B7%E8%B2%9D.jpg`
+
