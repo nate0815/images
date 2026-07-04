@@ -166,3 +166,15 @@
 
 `https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/1783009921976.jpg`
 
+---
+
+![S__17072130](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/S__17072130.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/S__17072130.jpg`
+
+---
+
+![S__17072131](https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/S__17072131.jpg)
+
+`https://raw.githubusercontent.com/nate0815/images/master/2026GameJam_asset/S__17072131.jpg`
+
