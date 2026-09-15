@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/nate0815/images/master/<資料夾>/<檔名>
 ## 資料夾
 
 - [`2026GameJam_asset/`](2026GameJam_asset/) — 2026 GameJam 發文素材，內含各圖的預覽與連結清單。
+- [`2026GodotLearn/`](2026GodotLearn/) — 2026 Godot 學習紀錄（GIF），內含各圖的預覽與連結清單。
+- [`2026MindBeneathUs/`](2026MindBeneathUs/) — 2026 Mind Beneath Us 截圖，內含各圖的預覽與連結清單。
+- [`2026OPUS/`](2026OPUS/) — 2026 OPUS 截圖，內含各圖的預覽與連結清單。
 
 ## 給 Claude 的固定流程 🤖
 
